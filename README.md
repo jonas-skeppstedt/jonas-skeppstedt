@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hey there!
 
-<!--
-**jonas-skeppstedt/jonas-skeppstedt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jonas — a developer who enjoys solving problems and keeping code tidy.
 
-Here are some ideas to get you started:
+### What I care about
+- C#, .NET, DDD
+- Clean Architecture & maintainable code
+- Writing predictable, testable systems
+- Clear boundaries, simple abstractions, and long‑term code health
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm currently learning and improving
+- TDD habits
+- DevOps fundamentals
+- My overall C# workflow and tooling
+
+---
+
+### Tech & Practices
+- **Languages:** C#, JavaScript
+- **Backend:** .NET, ASP.NET Core, REST APIs, EF Core, Dapper, MediatR
+- **Architecture:** Clean Architecture, Domain-Driven Design (DDD), CQRS, SOLID
+- **Data & Cloud:** SQL Server, PostgreSQL, MongoDB, Azure
+- **Tools, Testing & DevOps:** Test-Driven Development (TDD), xUnit, Moq, Git, GitHub Actions, Postman
+- **Frontend:** Blazor, HTML, CSS, Bootstrap
+
+---
